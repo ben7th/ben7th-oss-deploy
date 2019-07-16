@@ -4,7 +4,7 @@ https://www.npmjs.com/package/ben7th-oss-deploy
 
 编写配置文件，格式：
 
-```
+```json
 {
   "region": "<oss region>",
   "accessKeyId": "<Your accessKeyId>",
@@ -15,7 +15,7 @@ https://www.npmjs.com/package/ben7th-oss-deploy
 
 ## 调用代码
 
-```
+```js
 const deploy = require('ben7th-oss-deploy')
 const ossConfig = require('./oss.config.json')
 
