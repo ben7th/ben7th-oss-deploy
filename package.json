@@ -1,0 +1,14 @@
+{
+  "name": "ben7th-oss-deploy",
+  "version": "1.0.1",
+  "description": "deploy web dist to aliyun oss",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ali-oss": "^6.1.1"
+  }
+}
