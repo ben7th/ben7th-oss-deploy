@@ -1,3 +1,5 @@
+https://www.npmjs.com/package/ben7th-oss-deploy
+
 ## usage
 
 编写配置文件，格式：
